@@ -1,10 +1,12 @@
- ![banner](img/kitten.jpg)
+ ![banner](img/bridge.jpg)
 
- # Lorem ipsum sic header
+ # I changed the header
 
 1. List
 2. of
 3. bullet
 4. points
 
-<p> There is a bug in this file</p>
+
+<p> There is no bug in this file</p>
+<p> lorem ipsum </p>
